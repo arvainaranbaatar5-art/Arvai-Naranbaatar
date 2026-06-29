@@ -23,4 +23,4 @@ A public record of every concept learned, every project built, every wall hit an
 📍 Phase 1 — Linux. Day 1. Never touched a terminal before today.
 
 ## Follow the journey
-All my work is in the [devsecops-journey](https://github.com/arvainaranbaatar5-art/Arvai-Naranbaatar/devsecops-journey) repo.
+All my work is in the [devsecops-journey](https://github.com/arvainaranbaatar5-art/devsecops_journey) repo.
