@@ -20,7 +20,7 @@ A public record of every concept learned, every project built, every wall hit an
 | Year 5 | Interview prep and applications |
 
 ## Currently
-📍 Phase 1 — Linux. Day 1. Never touched a terminal before today.
+📍 Phase 1 — Linux. Day 2. Learnt the basic of terminal(cd,ls,pwd)
 
 ## Follow the journey
 All my work is in the [devsecops-journey](https://github.com/arvainaranbaatar5-art/devsecops_journey) repo.
